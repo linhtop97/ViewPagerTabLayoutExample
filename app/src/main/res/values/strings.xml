@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ViewPagerTabLayout Example</string>
+    <string name="third_fragment">Third Frangment</string>
+    <string name="second_fragment">Second Frangment</string>
+    <string name="first_fragment">First Frangment</string>
+    <string name="third">Third</string>
+    <string name="second">Second</string>
+    <string name="first">First</string>
+</resources>
